@@ -1,0 +1,3 @@
+Hello
+This is my first file using git on windows.
+Here is another edit to see how this works.
