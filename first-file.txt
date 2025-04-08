@@ -1,3 +1,4 @@
 Hello
 This is my first file using git on windows.
 Here is another edit to see how this works.
+I messed up the placement of this file with the directories and had errors when trying push to github cause I made edits in the wrong place. Ahhhhh!
